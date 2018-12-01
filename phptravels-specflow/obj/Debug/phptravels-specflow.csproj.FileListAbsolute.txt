@@ -1,6 +1,0 @@
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\bin\Debug\phptravels-specflow.dll
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\bin\Debug\phptravels-specflow.pdb
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\obj\Debug\phptravels-specflow.csprojResolveAssemblyReference.cache
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\obj\Debug\phptravels-specflow.dll
-C:\Users\Chai\VS2015\phptravels-specflow\phptravels-specflow\obj\Debug\phptravels-specflow.pdb
