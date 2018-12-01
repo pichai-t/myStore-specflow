@@ -1,1 +1,1 @@
-# phptravels-specflow
+# myStore-specflow
