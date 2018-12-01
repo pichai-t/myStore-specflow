@@ -3,11 +3,11 @@
 This is a small example of using Behavior Driven Development test.
 
 Technologies used: 
-  Language   : C# .Net
-  BDD Plug-in: SpecFlow 2.4.0.0
-  C# Plug-in : Selenium.Support.3.141.0
-  WebDriver  : geckodriver-v0.23.0-win64 (Firefox) 
-  Feature file: (as below)
+  - Language   : C# .Net
+  - BDD Plug-in: SpecFlow 2.4.0.0
+  - C# Plug-in : Selenium.Support.3.141.0
+  - WebDriver  : geckodriver-v0.23.0-win64 (Firefox) 
+  - Feature file: (as below)
 
 ----------------------------------------------------------------------
   Feature file
@@ -30,9 +30,8 @@ Scenario: "Product_Search_Test_Suite_01"
 	# Verify results
 	Then I see "BLOUSE" in "search word"
 	And I see "1 result has been found." in "search result counter"
-	
-        #-----------------------------------------
   
+  	#-----------------------------------------
 	# Search-2 for "Printed"
 	When I select field "Search" as "Printed"
 	And I click on "search" button
