@@ -6,9 +6,10 @@ namespace mystore_specflow
     [TestClass]
     public class UnitTest1
     {
-       //disabled [TestMethod]
+       /*disabled [TestMethod]
         public void TestMethod1()
         {
         }
+        */
     }
 }
