@@ -1,13 +1,6 @@
 ﻿using OpenQA.Selenium;  // From Nuget: Selenium.Support and Selenium.WebDriver
-using OpenQA.Selenium.Firefox;
 using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TechTalk.SpecFlow;
-
 
 namespace mystore_specflow
 {

@@ -1,0 +1,174 @@
+﻿2018-12-02T21:18:50.1355710+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T21:18:50.3055461+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T21:18:50.8218947+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T21:18:50.8248989+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T21:18:50.8278976+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T21:19:01.1496755+11:00;VSTestExecutionThread;Info;starting test run
+2018-12-02T21:19:01.1926751+11:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-12-02T21:19:01.1936768+11:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T21:20:13.9817682+11:00;VSTestExecutionThread;Info;test run finished
+2018-12-02T21:20:13.9847664+11:00;VSTestExecutionThread;Info;publishing test results
+2018-12-02T21:20:14.0257673+11:00;VSTestExecutionThread;Info;test results published
+2018-12-02T21:20:14.0277635+11:00;VSTestExecutionThread;Info;generating reports
+2018-12-02T21:20:14.0767635+11:00;VSTestExecutionThread;Info;creating 1 report(s)
+2018-12-02T21:20:14.0817668+11:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2018-12-02T21:20:22.3411034+11:00;VSTestExecutionThread;Info;reports generated
+2018-12-02T21:20:22.3560986+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T21:20:22.3590998+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T211850.html'
+2018-12-02T21:20:22.3861038+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T211850.log
+2018-12-02T21:20:22.4020990+11:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-12-02T21:57:07.3328043+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T21:57:07.3348081+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T21:57:07.3968024+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T21:57:07.4037990+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T21:57:07.4068019+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T21:57:21.4259280+11:00;VSTestExecutionThread;Info;starting test run
+2018-12-02T21:57:21.4419308+11:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-12-02T21:57:21.4439287+11:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T21:58:09.9279068+11:00;VSTestExecutionThread;Info;test run finished
+2018-12-02T21:58:09.9299047+11:00;VSTestExecutionThread;Info;publishing test results
+2018-12-02T21:58:09.9339051+11:00;VSTestExecutionThread;Info;test results published
+2018-12-02T21:58:09.9359059+11:00;VSTestExecutionThread;Info;generating reports
+2018-12-02T21:58:09.9399063+11:00;VSTestExecutionThread;Info;creating 1 report(s)
+2018-12-02T21:58:09.9419084+11:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2018-12-02T21:58:15.7925403+11:00;VSTestExecutionThread;Info;reports generated
+2018-12-02T21:58:15.8035419+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T21:58:15.8065410+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T215707.html'
+2018-12-02T21:58:15.8975329+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T215707.log
+2018-12-02T21:58:15.9025359+11:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-12-02T22:04:34.4605133+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T22:04:34.4635128+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T22:04:34.5575141+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T22:04:34.5615106+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:04:34.5645068+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T22:04:44.5938824+11:00;VSTestExecutionThread;Info;starting test run
+2018-12-02T22:04:44.5968828+11:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-12-02T22:04:44.5998836+11:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:05:28.5391469+11:00;VSTestExecutionThread;Info;test run finished
+2018-12-02T22:05:28.5421447+11:00;VSTestExecutionThread;Info;publishing test results
+2018-12-02T22:05:28.5441447+11:00;VSTestExecutionThread;Info;test results published
+2018-12-02T22:05:28.5461489+11:00;VSTestExecutionThread;Info;generating reports
+2018-12-02T22:05:28.5491506+11:00;VSTestExecutionThread;Info;creating 1 report(s)
+2018-12-02T22:05:28.5511425+11:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2018-12-02T22:05:33.1388599+11:00;VSTestExecutionThread;Info;reports generated
+2018-12-02T22:05:33.2338514+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T22:05:33.2378510+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T220434.html'
+2018-12-02T22:05:33.3418513+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T220434.log
+2018-12-02T22:05:33.3938406+11:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-12-02T22:09:22.0306626+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T22:09:22.0326635+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T22:09:22.0996594+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T22:09:22.1186550+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:09:22.1216571+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T22:09:28.2032780+11:00;VSTestExecutionThread;Info;starting test run
+2018-12-02T22:09:28.2542750+11:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-12-02T22:09:28.2572800+11:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:10:11.6345718+11:00;VSTestExecutionThread;Info;test run finished
+2018-12-02T22:10:11.6375726+11:00;VSTestExecutionThread;Info;publishing test results
+2018-12-02T22:10:11.6415735+11:00;VSTestExecutionThread;Info;test results published
+2018-12-02T22:10:11.6605699+11:00;VSTestExecutionThread;Info;generating reports
+2018-12-02T22:10:11.6635686+11:00;VSTestExecutionThread;Info;creating 1 report(s)
+2018-12-02T22:10:11.6665711+11:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2018-12-02T22:10:16.2402857+11:00;VSTestExecutionThread;Info;reports generated
+2018-12-02T22:10:16.2762866+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T22:10:16.2922814+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T220922.html'
+2018-12-02T22:10:16.3022783+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T220922.log
+2018-12-02T22:10:16.3082774+11:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-12-02T22:12:23.7735909+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T22:12:23.7765908+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T22:12:23.8385924+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T22:12:23.8515838+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:12:23.8545888+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T22:12:30.8781607+11:00;VSTestExecutionThread;Info;starting test run
+2018-12-02T22:12:30.9031596+11:00;VSTestExecutionThread;Info;Discovering target: Default
+2018-12-02T22:12:30.9061562+11:00;VSTestExecutionThread;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:13:12.3625655+11:00;VSTestExecutionThread;Info;test run finished
+2018-12-02T22:13:12.3665629+11:00;VSTestExecutionThread;Info;publishing test results
+2018-12-02T22:13:12.3695637+11:00;VSTestExecutionThread;Info;test results published
+2018-12-02T22:13:12.3715633+11:00;VSTestExecutionThread;Info;generating reports
+2018-12-02T22:13:12.3755615+11:00;VSTestExecutionThread;Info;creating 1 report(s)
+2018-12-02T22:13:12.3785674+11:00;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2018-12-02T22:13:16.9462791+11:00;VSTestExecutionThread;Info;reports generated
+2018-12-02T22:13:16.9932770+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T22:13:16.9962778+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T221223.html'
+2018-12-02T22:13:17.0082755+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T221223.log
+2018-12-02T22:13:17.0122725+11:00;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2018-12-02T22:18:26.7501407+11:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-12-02T22:18:26.7541385+11:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Chai\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-12-02T22:18:26.8181405+11:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-12-02T22:18:26.8211332+11:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+2018-12-02T22:18:26.8241362+11:00;VSTestExecutionThread;Info;Profile: myStore-specflow
+2018-12-02T22:18:35.8465783+11:00;Thread#26;Info;starting test run
+2018-12-02T22:18:35.8505724+11:00;Thread#26;Info;Discovering target: Default
+2018-12-02T22:18:35.8635752+11:00;Thread#26;Info;Discovering tests from assembly: C:\Users\Chai\VS2015\myStore-specflow\myStore-specflow\bin\Debug\myStore-specflow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: myStore-specflow/myStore-specflow - 
+#1: Default - 
+#2: myStore-specflow - 
+#3: Product_Search_Test_Suite_01 - 
+#4: "Product_Search_Test_Suite_01" - TestAssembly:myStore-specflow/Feature:Product_Search_Test_Suite_01/Scenario:%22Product_Search_Test_Suite_01%22
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for myStore-specflow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given Scenario is "Product_Search-TS_01-TC_01"
+Thread#0:T: Scenario is Product_Search-TS_01-TC_01
+Thread#0:T:done: GivenSteps.GivenScenarioIs("Product_Search-TS...") (0.0s)
+Thread#0:B:When I open Firefox with URL "http://automationpractice.com/index.php"
+Thread#0:T: I open Firefox with URL http://automationpractice.com/index.php
+Thread#0:T:done: WhenSteps.WhenIOpenAURL("http://automation...") (23.5s)
+Thread#0:B:When I select field "Search" as "Blouse"
+Thread#0:T: I select field  Search as Blouse
+Thread#0:T:done: WhenSteps.WhenISelectFieldAs("Search", "Blouse") (1.2s)
+Thread#0:B:And I click on "search" button
+Thread#0:T: I click on  search button
+Thread#0:T:done: WhenSteps.WhenIClickOnButton("search") (4.9s)
+Thread#0:B:Then I see "BLOUSE" in "search word"
+Thread#0:T:done: ThenSteps.ThenISeeIn("BLOUSE", "search word") (0.6s)
+Thread#0:B:And I see "1 result has been found." in "search result counter"
+Thread#0:T:done: ThenSteps.ThenISeeIn("1 result has been...", "search result cou...") (0.2s)
+Thread#0:B:When I select field "Search" as "Printed"
+Thread#0:T: I select field  Search as Printed
+Thread#0:T:done: WhenSteps.WhenISelectFieldAs("Search", "Printed") (0.9s)
+Thread#0:B:And I click on "search" button
+Thread#0:T: I click on  search button
+Thread#0:T:done: WhenSteps.WhenIClickOnButton("search") (2.8s)
+Thread#0:B:Then I see "PRINTED" in "search word"
+Thread#0:T:done: ThenSteps.ThenISeeIn("PRINTED", "search word") (0.6s)
+Thread#0:B:And I see "5 results have been found." in "search result counter"
+Thread#0:T:done: ThenSteps.ThenISeeIn("5 results have be...", "search result cou...") (0.1s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 43.9052627 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-12-02T22:19:20.1508132+11:00;Thread#26;Info;test run finished
+2018-12-02T22:19:20.1528183+11:00;Thread#26;Info;publishing test results
+2018-12-02T22:19:20.1628076+11:00;Thread#26;Info;test results published
+2018-12-02T22:19:20.1658194+11:00;Thread#26;Info;generating reports
+2018-12-02T22:19:20.1688122+11:00;Thread#26;Info;creating 1 report(s)
+2018-12-02T22:19:20.1708185+11:00;Thread#26;Info;generate Report ReportTemplate.cshtml
+2018-12-02T22:19:24.8345318+11:00;Thread#26;Info;reports generated
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-12-02T22:19:24.8705268+11:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-12-02T22:19:24.8735200+11:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T221826.html'
+2018-12-02T22:19:24.8845225+11:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\Chai\VS2015\myStore-specflow\TestResults\myStore-specflow_myStore-specflow_2018-12-02T221826.log
